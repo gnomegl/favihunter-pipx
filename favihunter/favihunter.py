@@ -183,7 +183,7 @@ def main():
          {}[{}>{}] {}By eremit4 and johnk3r                                                                                                        
          {}[{}>{}] {}pipx rewrite by gnomegl
         {}""".format(Style.BRIGHT, Fore.BLUE, Style.NORMAL, Fore.RED, Fore.BLUE, Fore.WHITE,
-                     Fore.BLUE, Fore.RED, Fore.BLUE, Fore.WHITE, Fore.RESET))
+                     Fore.BLUE, Fore.RED, Fore.BLUE, Fore.WHITE, Fore.BLUE, Fore.RED, Fore.BLUE, Fore.WHITE, Fore.RESET))
     
     args = parser.parse_args()
     try:
